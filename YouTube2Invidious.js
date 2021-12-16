@@ -6,8 +6,8 @@
 // @license     GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @homepage    https://github.com/ConnerWill/YouTube2Invidious
 // @homepageURL https://github.com/ConnerWill/YouTube2Invidious
-// @downloadURL https://github.com/ConnerWill/YouTube2Invidious/raw/master/YouTube2Invidious/YouTube2Invidious.js
-// @updateURL   https://github.com/ConnerWill/YouTube2Invidious/raw/master/YouTube2Invidious/YouTube2Invidious.js
+// @downloadURL https://raw.githubusercontent.com/ConnerWill/YouTube2Invidious/main/YouTube2Invidious.js
+// @updateURL   https://raw.githubusercontent.com/ConnerWill/YouTube2Invidious/main/YouTube2Invidious.js
 // @supportURL  https://github.com/ConnerWill/YouTube2Invidious/issues
 // @include     *://*.youtube.com/*
 // @version     1
