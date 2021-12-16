@@ -15,9 +15,18 @@
 // ==/UserScript==
 
 var a = 0;
+var youtubeURL = 'youtube.com';
+var invidiousURL = 'yewtu.be';
+var invidiousURLList = 'redirect.invidious.io'
+
 setInterval(function () {
-	if (a === 0 && window.location.href.indexOf('watch?') > -1 && window.location.href.indexOf('list=WL') < 0) {
-		a = '//yewtu.be/watch?' + window.parent.location.href.split('?')[1];
+	if (a == 0 && window.location.href.includes(youtubeURL)) {
+		a = window.location.href.replace(youtubeURL,invidiousURL);
 		window.location.replace(a);
 	}
 }, 10);
+
+
+
+
+
