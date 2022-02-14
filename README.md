@@ -1,8 +1,30 @@
 # YouTube2Invidious
 
-[![YewTu.be](https://invidious.io/invidious-colored-vector.svg)]
+<div align="center">
+<img width="480" height="320" src="https://invidious.io/invidious-colored-vector.svg">
+</div>
 
-[YouTube2Invidious](https://github.com/ConnerWill/YouTube2Invidious) is a [UserScript](https://openuserjs.org/about/Userscript-Beginners-HOWTO) that redirects requests from [YouTube.com](https://www.youtube.com) to an [Invidious](https://docs.invidious.io) instance.
+
+<div align="center">
+   
+### **YouTube to Invidious Redirection User Script**
+> *[YouTube2Invidious](https://github.com/ConnerWill/YouTube2Invidious) is a [UserScript](https://openuserjs.org/about/Userscript-Beginners-HOWTO) that redirects requests from [YouTube.com](https://www.youtube.com) to an [Invidious](https://docs.invidious.io) instance.*
+
+![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/YouTube2Invidious)
+![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/YouTube2Invidious)
+![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/YouTube2Invidious)
+[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/YouTube2Invidious)
+![GitHub](https://img.shields.io/github/license/ConnerWill/YouTube2Invidious)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/YouTube2Invidious?style=social)
+</div>  
+
+---
+
+# Table of Contents
+<details>
+  <summary>Click to expand table of contents</summary>
+
+  ---
 
 * [<strong>YouTube2Invidious</strong>](#youtube2invidious)
 * [<strong>Setup</strong>](#setup)
@@ -18,6 +40,12 @@
       * [Safari](###safari)
 * [<strong>Installation</strong>](#installation)
 * [<strong>Usage</strong>](#usage)
+   
+  ---
+  
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+</details>  
 
 ---
 
@@ -64,3 +92,41 @@ Once you have the script installed, try navigating to [YouTube.com](https://www.
 ---
 
 https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.1_Youtube2Invidious/YouTube2Invidious.user.js
+
+# Other
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+<details>
+  <summary>Click to expand contributing section</summary>
+
+  ---
+
+Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue.
+
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+</details>  
+
+rclone links[^rclone]
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+---
+
+
+
+
