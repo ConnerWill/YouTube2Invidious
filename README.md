@@ -1,5 +1,7 @@
 # YouTube2Invidious
 
+[![YewTu.be](https://invidious.io/invidious-colored-vector.svg)]
+
 [YouTube2Invidious](https://github.com/ConnerWill/YouTube2Invidious) is a [UserScript](https://openuserjs.org/about/Userscript-Beginners-HOWTO) that redirects requests from [YouTube.com](https://www.youtube.com) to an [Invidious](https://docs.invidious.io) instance.
 
 * [<strong>YouTube2Invidious</strong>](#youtube2invidious)
