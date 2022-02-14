@@ -40,7 +40,8 @@
       * [Safari](#macos)
 * [<strong>Installation</strong>](#installation)
 * [<strong>Usage</strong>](#usage)
-   
+* [Other](#other)
+   * [Contributing](#contributing)   
   ---
   
 <p align="right">(<a href="#top">back to top</a>)</p>
