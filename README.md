@@ -60,17 +60,27 @@ To run this script, you need to have a browser extension installed.
 You can choose which extension to install, but they more or less are the same. *(I personally use [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey))*. Here are links to where you can install the extensions.
 
 ## **Linux**
+<details>
+  <summary>Click to expand</summary>
+   
 *   ### FireFox - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey), [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey), [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey)
 *   ### Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+</details>  
 
 ## **Windows**
+<details>
+  <summary>Click to expand</summary>
 *   ### FireFox - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey), [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey), [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey)
 *   ### Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-
+</details>  
+   
 ## **MacOS**
+<details>
+  <summary>Click to expand</summary>
 *   ### FireFox - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey), [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey), [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey)
 *   ### Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 *   ### Safari - [Tampermonkey](https://apps.apple.com/app/apple-store/id1482490089?pt=117945903)
+</details>  
 
 ---
 # Installation
