@@ -97,13 +97,12 @@ https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.1_Youtube
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
 <details>
   <summary>Click to expand contributing section</summary>
-
-  ---
 
 Any contributions you make are **greatly appreciated**.
 
@@ -118,11 +117,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-</details>  
-
-rclone links[^rclone]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+</details>
 
 
 ---
