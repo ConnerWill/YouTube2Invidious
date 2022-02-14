@@ -95,10 +95,6 @@ https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.1_Youtube
 
 # Other
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 <details>
