@@ -1,31 +1,22 @@
 // ==UserScript==
 // @name        YouTube2Invidious
-// @namespace   https://github.com/ConnerWill/YouTube2Invidious
-// @description Redirect YouTube to an Invidious instance.
 // @author      ConnerWill
+// @version     1.0.1
+// @description Always Redirect YouTube to an Invidious instance due to the fact that YouTube_is_CANCER and full of spyware.
 // @license     GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
+// @namespace   https://github.com/ConnerWill/YouTube2Invidious
 // @homepage    https://github.com/ConnerWill/YouTube2Invidious
 // @homepageURL https://github.com/ConnerWill/YouTube2Invidious
 // @downloadURL https://raw.githubusercontent.com/ConnerWill/YouTube2Invidious/main/YouTube2Invidious.js
 // @updateURL   https://raw.githubusercontent.com/ConnerWill/YouTube2Invidious/main/YouTube2Invidious.js
 // @supportURL  https://github.com/ConnerWill/YouTube2Invidious/issues
-// @include     *://*.youtube.com/*
-// @version     1
+// @icon        https://invidious.io/invidious-colored-vector.svg
 // @grant       none
+// @run-at      document-start
+// @include     *://www.youtube.com/*
+// @include     *://*.youtube.com/*
 // ==/UserScript==
-
-var a = 0;
-var youtubeURL = 'youtube.com';
-var invidiousURL = 'yewtu.be';
-var invidiousURLList = 'redirect.invidious.io'
-
-setInterval(function () {
-	if (a == 0 && window.location.href.includes(youtubeURL)) {
-		a = window.location.href.replace(youtubeURL,invidiousURL);
-		window.location.replace(a);
-	}
-}, 10);
-
+window.location.replace("https://yewtu.be" + window.location.pathname + window.location.search);
 
 
 
