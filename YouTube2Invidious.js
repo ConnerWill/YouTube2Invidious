@@ -16,7 +16,7 @@
 // @include     *://www.youtube.com/*
 // @include     *://*.youtube.com/*
 // ==/UserScript==
-window.location.replace("https://yewtu.be" + window.location.pathname + window.location.search);
+window.location.replace("https://dampsock.com" + window.location.pathname + window.location.search);
 
 
 
