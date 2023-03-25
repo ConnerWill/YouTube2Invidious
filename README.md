@@ -51,7 +51,7 @@
 ---
 
 # TL;DR
-*Click* **[Here To Install](https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.3/YouTube2Invidious.user.js)**
+*Click* **[Here To Install](https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.4/YouTube2Invidious.user.js)**
 
 ---
 
@@ -87,14 +87,14 @@ You can choose which extension to install, but they more or less are the same. *
 
 ## Simple Installation** - *`(Big-Brain Method)`*
 
-1. Click the link to [YouTube2Invidious.js](https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.3/YouTube2Invidious.user.js) *(It should open the "raw" file)*
+1. Click the link to [YouTube2Invidious.js](https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.4/YouTube2Invidious.user.js) *(It should open the "raw" file)*
 2. Your UserScript manager should prompt you if you want to install the script.
 3. Click `"Confirm"` or `"Yes"` to install the script."
 
 ## Manual Installation** - *`(Small-Brain method)`*
 
 1. Open / Activate your UserScript extension and create a new script.
-4. Copy the contents of [YouTube2Invidious.js](https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.3/YouTube2Invidious.user.js) and paste the it into the new script and save.
+4. Copy the contents of [YouTube2Invidious.js](https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.4/YouTube2Invidious.user.js) and paste the it into the new script and save.
 ---
 # Usage
 
@@ -102,7 +102,7 @@ Once you have the script installed, try navigating to [YouTube.com](https://www.
 
 ---
 
-https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.3/YouTube2Invidious.user.js
+https://github.com/ConnerWill/YouTube2Invidious/releases/download/v1.0.4/YouTube2Invidious.user.js
 
 # Other
 
