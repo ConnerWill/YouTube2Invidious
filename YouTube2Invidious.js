@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YouTube2Invidious
 // @author      ConnerWill
-// @version     1.0.2
+// @version     1.0.4
 // @description Always Redirect YouTube to an Invidious instance due to the fact that YouTube_is_CANCER and full of spyware.
 // @license     GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @namespace   https://github.com/ConnerWill/YouTube2Invidious
