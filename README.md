@@ -98,7 +98,7 @@ You can choose which extension to install, but they more or less are the same. *
 ---
 # Usage
 
-Once you have the script installed, try navigating to [YouTube.com](https://www.youtube.com). You should have been redirected to an Invidious instance instead. *eg. [yewtu.be]()
+Once you have the script installed, try navigating to [YouTube.com](https://www.youtube.com). You should have been redirected to an Invidious instance instead. *eg. [dampsock.com](https://dampsock.com)
 
 ---
 
